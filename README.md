@@ -66,9 +66,6 @@ This project integrates a **Github actions CI/CD pipeline** for automated testin
 ## 🤝 Contributing
 Contributions are welcome! Feel free to open issues or submit PRs.
 
-## 📜 License
-This project is licensed under the **MIT License**.
-
 ---
 **Star ⭐ the repo if you found it useful!**
 
